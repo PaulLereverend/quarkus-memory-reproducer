@@ -1,0 +1,5 @@
+org\acme\getting\started\StreamService.class
+org\acme\getting\started\InputBody.class
+org\acme\getting\started\HttpClientStream.class
+org\acme\getting\started\OutputResponse.class
+org\acme\getting\started\StreamApi.class
